@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../game"
+		},
+		{
+			"path": "../charts"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
